@@ -15,22 +15,22 @@ The following questions were raised to guide the project:
 # Data Cleaning
 The dataset for this project was in **CSV** files so I opened them in **Excel** for cross-examination. I cleaned the data of duplicates and blank spaces and renamed a few columns to reflect their contents. Also, the data types were changed as well to the appropriate datatype e.g. Date for Date column, and so on. It was observed that none of the columns had unique values so I had to add a column titled customer ID this is important while assigning **primary keys in SQL**. 
 # Skills Involved
-Use of **COMMON TABLE EXPRESSION**
-Use of **GROUP BY CLAUSE**
-Use of **ORDER BY**
-Use of ***SELECT**
-Use of **RANK**
-Use of **ROW**
-Use of **COUNT**
-Use of **SELECT DISTINCT**
-Use of **WHERE CLAUSE**
-Use of **AND OPERATOR**
-Use of **JOIN CLAUSE** 
-Use of **IN OPERATOR**
-Use of **AVG FUNCTION**
-Use of **SUM FUNCTION**
-Use of **LESS THAN** <
-Use of **GREATER THAN** >
+1. Use of **COMMON TABLE EXPRESSION**
+2. Use of **GROUP BY CLAUSE**
+3. Use of **ORDER BY**
+4. Use of ***SELECT**
+5. Use of **RANK**
+6. Use of **ROW**
+7. Use of **COUNT**
+8. Use of **SELECT DISTINCT**
+9. Use of **WHERE CLAUSE**
+10. Use of **AND OPERATOR**
+11. Use of **JOIN CLAUSE** 
+12. Use of **IN OPERATOR**
+13. Use of **AVG FUNCTION**
+14. Use of **SUM FUNCTION**
+15. Use of **LESS THAN** <
+16. Use of **GREATER THAN** >
 # Sets Of Codes
 ![](Query.png)
 # Procedures In The Analysis
@@ -58,7 +58,7 @@ Lastly, to indicate the countries from each region/continent with the highest to
 In completing this **SQL project**, I've successfully harnessed the power of **SQL** to analyze and extract meaningful insights from complex datasets. Through meticulous querying, I've explored the relationships between forest areas and income groups, shedding light on countries' ecological landscapes and economic standings. By calculating averages and making comparisons, I've revealed patterns that enrich our understanding of these intertwined factors.
 This project has honed my ability to structure and execute intricate **SQL queries**, showcasing my proficiency in data manipulation and analysis. As I've navigated through the project's challenges, I've not only advanced my technical skills but also developed a deeper appreciation for the role data plays in unveiling hidden narratives.
 Through this journey, I've come to appreciate **SQL's prowess** in transforming raw data into actionable insights. The project's outcomes not only stand as a testament to my **SQL proficiency** but also exemplify the power of structured querying in making sense of complex datasets.
-
+*Thanks for reading, you may want to consider reading my other projects and tasks in Excel and SQL*. 
 
 
 
